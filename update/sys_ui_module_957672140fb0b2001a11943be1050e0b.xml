@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Backup git">957672140fb0b2001a11943be1050e09</application>
+        <filter/>
+        <name>Remote backups</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_10521_git_backup.remote_backup_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>lionel.comandini</sys_created_by>
+        <sys_created_on>2017-02-03 20:45:26</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>957672140fb0b2001a11943be1050e0b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Remote backups</sys_name>
+        <sys_package display_value="Git Backup" source="x_10521_git_backup">1f923a9c0fbc72001a11943be1050e54</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Git Backup">1f923a9c0fbc72001a11943be1050e54</sys_scope>
+        <sys_update_name>sys_ui_module_957672140fb0b2001a11943be1050e0b</sys_update_name>
+        <sys_updated_by>lionel.comandini</sys_updated_by>
+        <sys_updated_on>2017-02-03 20:45:26</sys_updated_on>
+        <table>x_10521_git_backup_remote_backup</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

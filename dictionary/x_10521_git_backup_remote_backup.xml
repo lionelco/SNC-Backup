@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Remote backup" max_length="40" name="x_10521_git_backup_remote_backup" type="collection"/>
+</database>
